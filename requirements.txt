@@ -1,0 +1,9 @@
+geopandas
+rasterio
+matplotlib
+numpy
+pandas
+shapely
+reportlab
+earthengine-api
+google-api-python-client
